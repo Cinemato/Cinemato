@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Khaled Al Hariri</h1>
 <h3 align="center">A web developer and a hobbyist game developer!</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/320114/screenshots/2575134/code_dribbble.gif">
 <h3 align="left">Some info about me:</h3>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/320114/screenshots/2575134/code_dribbble.gif">
 
 - ✈️ I live in **Turkey**
 
