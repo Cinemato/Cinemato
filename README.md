@@ -11,7 +11,7 @@
 
 - 💻 I’m currently looking for a **full time job**
 
-- 🎮 Check out my video games **[https://www.cinematogames.com/](https://www.cinematogames.com/)**
+- 🎮 Check out my video games at **[https://www.cinematogames.com/](https://www.cinematogames.com/)**
 
 - 💬 Ask me about **React, JavaScript, Laravel, Unity Game Engine**
 
