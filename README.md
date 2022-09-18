@@ -1,7 +1,8 @@
 ![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
 <h1 align="center">Hi 👋, I'm Khaled Al Hariri</h1>
-<h3 align="center">A web developer and a hobbyist game developer!</h3><br>
+<h3 align="center">A web developer and a hobbyist game developer!</h3>
+<h3 align="left">Some info about me:</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/320114/screenshots/2575134/code_dribbble.gif">
 
 - ✈️ I live in **Turkey**
@@ -16,7 +17,7 @@
 
 - 📫 How to reach me **alharerekhaled@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khaled-alhariri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/khaled-alhariri/" height="30" width="40" /></a>
 </p>
@@ -32,3 +33,4 @@
 <h3 align="left">Other:</h3>
 <p align="left"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cinemato&show_icons=true&locale=en" alt="cinemato" /></p>
