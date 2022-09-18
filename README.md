@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, JavaScript, Laravel, Unity Game Engine**
 
-- 📫 How to reach me **alharerekhaled@gmail.com**
+- 📫 Email me at **alharerekhaled@gmail.com**
 
 <h3 align="left">LinkedIn:</h3>
 <p align="left">
