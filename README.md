@@ -7,11 +7,11 @@
 
 - ✈️ I live in **Turkey**
 
-- 🌱 I’m currently learning **TypeScript, Redux, GraphQL, and Jest**
+- 🌱 I’m currently learning **Redux and TypeScript**
 
 - 💻 I’m currently looking for a **full time job**
 
-- 🎮 Check out my video games at **[https://www.cinematogames.com/](https://www.cinematogames.com/)**
+- 🎮 Check out my video games by **[clicking here!](https://www.cinematogames.com/)**
 
 - 💬 Ask me about **React, JavaScript, Laravel, Unity Game Engine**
 
