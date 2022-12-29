@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/320114/screenshots/2575134/code_dribbble.gif">
 <h3 align="left">Some info about me:</h3>
 
-- ✈️ I live in **Turkey**
+- ✈️ I live in **Turkey** and **Kuwait**
 
 - 🌱 I’m currently learning **TypeScript**
 
