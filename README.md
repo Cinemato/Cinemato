@@ -11,7 +11,7 @@
 
 - 💻 I’m currently looking for a **full time job**
 
-- 🎮 Check out my video games by **[clicking here!](https://www.cinematogames.com/)**
+- 🎮 Check out my portfolio by **[clicking here!](https://khaledalhariri.com/)**
 
 - 💬 Ask me about **React, JavaScript, and Laravel**
 
