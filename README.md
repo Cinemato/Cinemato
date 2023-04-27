@@ -7,7 +7,7 @@
 
 - ✈️ I live in **Turkey** and **Kuwait**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 💻 I’m currently looking for a **full time job**
 
