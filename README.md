@@ -7,13 +7,11 @@
 
 - ✈️ I live in **Turkey** and **Kuwait**
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **AWS & Cloud Computing**
 
 - 💻 I’m currently looking for a **full time job**
 
-- 🎮 Check out my portfolio by **[clicking here!](https://khaledalhariri.com/)**
-
-- 💬 Ask me about **React, JavaScript, and Laravel**
+- 🌐 Check out my portfolio by **[clicking here!](https://khaledalhariri.com/)**
 
 - 📫 Email me at **alharerekhaled@gmail.com**
 
