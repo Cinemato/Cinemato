@@ -1,7 +1,7 @@
 ![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
 <h1 align="center">Hi 👋, I'm Khaled Al Hariri</h1>
-<h3 align="center">A web developer and a hobbyist game developer!</h3>
+<h3 align="center">A software engineer and a web developer!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/320114/screenshots/2575134/code_dribbble.gif">
 <h3 align="left">Some info about me:</h3>
 
