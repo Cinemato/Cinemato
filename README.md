@@ -9,7 +9,7 @@
   <li>✈️ I live in <strong>Kuwait</strong></li>
   <li>🌱 I’m currently learning <strong>AWS & Cloud Computing</strong></li>
   <li>💻 I’m currently looking for a <strong>full-time job</strong></li>
-  <li>🌐 Check out my portfolio by <a href="https://khaledalhariri.com/" target="_blank">clicking here!</a></li>
+  <li>🌐 Check out my portfolio website by <a href="https://khaledalhariri.com/" target="_blank">clicking here!</a></li>
   <li>📫 Email me at <strong>alharerekhaled@gmail.com</strong></li>
 </ul>
 
