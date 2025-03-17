@@ -28,6 +28,8 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://spring.io/img/projects/spring-boot.svg" alt="spring boot" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a>
+  <a href="https://www.asp.net" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-khaled.appspot.com/o/images%2Fskills%2Faspnet-logo.svg?alt=media&token=3adbc138-0eb0-4e5f-8069-2a72acfbf1fb&_gl=1*12a2o7v*_ga*MTczODU4Nzc1Mi4xNjk3MDQ5OTg5*_ga_CW55HF8NVT*MTY5NzMwNDI5MS4xMy4xLjE2OTczMDQ0ODIuNS4wLjA." alt="asp" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 </p>
