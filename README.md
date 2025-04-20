@@ -7,7 +7,7 @@
 <h3 align="left">Some Info About Me:</h3>
 <ul>
   <li>🏠 I live in <strong>Kuwait</strong></li>
-  <li>🌱 I’m currently learning <strong>Kubernetes & Cloud Computing</strong></li>
+  <li>🌱 I’m currently learning <strong>Cloud Computing</strong></li>
   <li>💻 I’m currently looking for a <strong>full-time job</strong></li>
   <li>🌐 Check out my portfolio website by <a href="https://khaledalhariri.com/" target="_blank">clicking here!</a></li>
   <li>📫 Email me at <strong>alharerekhaled@gmail.com</strong></li>
@@ -47,6 +47,7 @@
 
 ### Cloud, Deployment, and CI/CD:
 <p align="left">
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/0d9dccfc6bc22f2370650cf5b8ad99cbba74ea23/logo/logo.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
 </p>
